@@ -1,0 +1,12 @@
+http://nintendoage.com/forum/messageview.cfm?catid=22&threadid=7155
+
+	This is Nerdy Night's guide to beginner NES programming.  It is
+	broken down really well and pretty easy to follow.  Also covers
+	sound development.
+
+https://www.youtube.com/watch?v=XT95C4fT6zA
+
+	Great introduction video class into the basics of NES programming. 
+	He doesn't talk about C programming, but honestly it is probably for
+	the better than you get good with Assembly before moving on the a
+	higher-level language.
